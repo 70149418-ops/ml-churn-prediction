@@ -1,7 +1,5 @@
 # Customer Churn Prediction — ML Semester Project
-
-**Course:** CS-13410 Introduction to Machine Learning · Fall 2026 · The University of Lahore
-**Group members:** Name 1, Name 2, Name 3, Name 4
+**Group members:** M Hussain (70145395), Fariq Khalid (70149418), Ali Farooq (70146755), Sufyan Qazi (70146372)
 
 ## Project
 We predict whether a telecom customer will leave the company ("churn") using the
@@ -16,18 +14,13 @@ main metrics: F1-score and ROC-AUC.
 | `requirements.txt` | Python libraries needed |
 
 ## Progress
-- [x] Part 1 — Data Preparation & Pipeline
-- [ ] Part 2 — Supervised Learning Baseline (Naive Bayes vs Decision Tree)
-- [ ] Part 3 — Ensembles & Hyperparameter Optimisation
-- [ ] Part 4 — Neural Network, Unsupervised Learning & Interpretability
-- [ ] Part 5 — Final report & viva
+- Part 1 — Data Preparation & Pipeline
 
 ## How to run
 ```
 pip install -r requirements.txt
 jupyter notebook ML_Project_Churn.ipynb
 ```
-Or open the notebook in Google Colab — it downloads the dataset automatically if the CSV is missing.
 
 ## Dataset source
 IBM, "Telco Customer Churn": https://github.com/IBM/telco-customer-churn-on-icp4d
