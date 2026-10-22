@@ -15,6 +15,7 @@ main metrics: F1-score and ROC-AUC.
 
 ## Progress
 - Part 1 — Data Preparation & Pipeline
+- Part 2 — Supervised Learning Baseline (Naive Bayes vs Decision Tree)
 
 ## How to run
 ```
